@@ -11,6 +11,7 @@ public static void verifyTitle(WebDriver driver,CharSequence searchTerm){
 		System.out.println("Fail");
 		System.out.println("Expected: "+searchTerm);
 		System.out.println("Actual: "+actual);
+		System.out.println("done with git");
 	}
 }
 }
